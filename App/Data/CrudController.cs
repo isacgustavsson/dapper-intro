@@ -8,6 +8,8 @@ namespace Data;
 
 public class CrudController
 {
+
+    //TODO Placeholder kod för att testa att det funkar men denna borde bli mer generell och det man vill selecta borde komma från user-input.
     public void Read()
     {
         DbContext context = new();
